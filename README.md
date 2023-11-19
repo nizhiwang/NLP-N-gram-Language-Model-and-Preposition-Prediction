@@ -5,8 +5,10 @@ This assignment will guide you through the implementation of n-gram language mod
 
 # Content
 A1.pdf: Assignment Handbook
+
 NLP_A1.ipynb: Jupyter Notebook template. (Google Colab version)
 
 # data:
 Data files for Section 1 n-gram lm
+
 Data files for Section 2 preposition prediction
